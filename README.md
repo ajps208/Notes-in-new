@@ -37,7 +37,7 @@ Welcome to NOTESIN, an intuitive note creation and viewing app that aims to simp
 
 ## 🛠 Getting Started
 
-1. **Clone the repository:** `git clone https://github.com/your-username/notesin.git`
+1. **Clone the repository:** `git clone https://github.com/ajps208/Notes-in-new.git`
 2. **Navigate to the project directory:** `cd notesin`
 3. **Install dependencies for the server:** `npm install`
 4. **Navigate to the client directory:** `cd client`
@@ -49,14 +49,10 @@ Welcome to NOTESIN, an intuitive note creation and viewing app that aims to simp
 
 ## ▶️ Usage
 
-1. **Run the server:** `npm start` (in the main project directory)
-2. **Run the client:** `npm start` (in the `client` directory)
-3. **Access the application in your browser at:** `http://localhost:3000`
+1. **Run the client:** `npm start` (in the `client` directory)
+2. **Access the application in your browser at:** `http://localhost:3000`
 
 ## 🤝 Contributing
 
 Feel free to contribute to the development of NOTESIN by following the guidelines in the CONTRIBUTING.md file.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
